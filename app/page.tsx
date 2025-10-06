@@ -329,7 +329,7 @@ export default function Home() {
         <p>
           Powered by OpenAI Sora • Built for DevDay 2025 •{" "}
           <a
-            href="https://x.com/racheltnguyen"
+            href="https://github.com/rachelnguyen/openai-devday-2025-sora"
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-primary transition-colors text-white/70 hover:text-white"
@@ -391,7 +391,7 @@ export default function Home() {
 
             {/* GitHub Icon */}
             <a
-              href="https://x.com/racheltnguyen"
+              href="https://github.com/rachelnguyen"
               target="_blank"
               rel="noopener noreferrer"
               className="group"
